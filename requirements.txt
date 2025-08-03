@@ -1,0 +1,16 @@
+langchain==0.3.7
+langchain-community==0.3.7
+# chromadb==0.5.20  # Requires Visual C++ Build Tools - install manually if needed
+streamlit==1.39.0
+python-dotenv==1.0.1
+pypdf2==3.0.1
+docx2txt==0.8
+tiktoken==0.8.0
+sentence-transformers==3.3.1
+llama-cpp-python==0.2.90
+transformers==4.46.3
+torch==2.2.0
+accelerate==1.1.1
+pymupdf==1.24.13
+pillow==10.4.0
+opencv-python==4.10.0.84
